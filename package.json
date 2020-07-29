@@ -10,7 +10,7 @@
   "author": "L.T.",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "^4.1.0",
+    "bootstrap": "^4.3.1",
     "i18next": "^11.2.2",
     "i18next-browser-languagedetector": "^2.2.0",
     "jquery": "^3.3.1",
